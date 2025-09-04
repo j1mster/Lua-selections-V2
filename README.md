@@ -147,5 +147,3 @@ GNU GENERAL PUBLIC LICENSE
 PRs welcome. Add stuff like mouse support, emoji menus, or animations!
 
 ---
-
-Want me to also include a **section diagramming the modules** (like `init`, `output`, `message`, `string`, `number`) so people know how the pieces fit together, or keep it user-facing only?
