@@ -1,5 +1,3 @@
----
-
 # lua-selections (v2)
 
 **`lua-selections`** is a modular Lua terminal UI toolkit built on `luv` (libuv). It gives you arrow-key driven menus, text prompts, ANSI colors, and a message system with pinning/editing. Basically: cursed but usable TUIs.
