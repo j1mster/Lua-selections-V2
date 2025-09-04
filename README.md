@@ -144,7 +144,7 @@ GNU GENERAL PUBLIC LICENSE
 
 ## 🤝 Contributing
 
-PRs welcome. Add cstuff like mouse support, emoji menus, or animations!
+PRs welcome. Add stuff like mouse support, emoji menus, or animations!
 
 ---
 
